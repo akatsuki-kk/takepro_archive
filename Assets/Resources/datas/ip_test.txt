@@ -1,0 +1,14 @@
+0:<fade>
+0:<yn>選択肢は正しいですか？,はい|いいえ
+1:<y>やっぱり
+1:<y>正しかった
+0:<y>
+1:<n>結局
+1:<n>間違ってた
+0:<n><change_back>1
+0:<n><change_bgm>1
+0:<n><change_chara>0,2
+0:<n>
+2:<n>テスト
+0:<n><change_scene>Minigame_rule_placeholder
+1:スキップ
